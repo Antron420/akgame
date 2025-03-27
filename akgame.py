@@ -11,6 +11,15 @@ player = pygame.Rect((300, 250, 50, 50))
 
 pygame.display.set_caption("akgame V1.0.0")
 
+class Player():
+    def __init__(self, x, y):
+
+        def move(self):
+
+    #reset variables
+            dx = 0
+            dy = 0
+
 run = True
 while run:
 
